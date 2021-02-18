@@ -16,5 +16,3 @@ jobs:
           owner: ging
           base: master
           head: master
-          auto_approve: true
-          personal_token: ${{ secrets.PERSONAL_TOKEN }}
